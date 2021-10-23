@@ -5,7 +5,6 @@
 # PR2
 
 # PR3
-Kristopher Crump
 
 # PR4
 Kristopher Crump
